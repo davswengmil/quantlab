@@ -1,0 +1,17 @@
+# python virtual environment
+.venv/
+
+# python cache
+__pycache__/
+*.py[cod]
+
+# test and lint caches
+.pytest_cache/
+.ruff_cache/
+
+# local secrets
+.env
+
+# editor and os files
+.vscode/
+.DS_Store
